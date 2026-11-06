@@ -1,0 +1,7 @@
+[book]
+title = "MetS Lifestyle Interventions Wiki"
+authors = ["iamflipse"]
+description = "Curated wiki distilling Chen et al. (2026) Adv. Nutr. 10.1016/j.advnut.2026.100759 — Bayesian network + component network meta-analysis of exercise, dietary, and combined lifestyle interventions for metabolic syndrome."
+
+[build]
+charset = "utf-8"
